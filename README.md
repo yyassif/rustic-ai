@@ -3,7 +3,7 @@
 RusticAI is an advanced chatbot developed using the Leptos web framework and Ollama-rs for maintaining chat conversations. Designed for performance and scalability, this chatbot leverages the power of Rust's concurrency and memory safety to deliver fast and intelligent conversations.
 
 <picture>
-<img src="https://raw.githubusercontent.com/yyassif/rustic-ai/main/demo.png" />
+<img src="https://raw.githubusercontent.com/yyassif/rustic-ai/main/assets/demo.png" />
 </picture>
 
 ## Features
